@@ -58,12 +58,9 @@ html {
 }
 
 .logo {
-    font-size: 1.5rem;
-    font-weight: 800;
-    background: linear-gradient(45deg, var(--accent-blue), var(--accent-teal));
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
+    font-size: 28px;
+    font-weight: 700;
+    color: #dc2626;
 }
 
 .nav-links {
@@ -124,10 +121,7 @@ html {
     font-size: 4rem;
     font-weight: 900;
     margin-bottom: 0.5rem;
-    background: linear-gradient(45deg, var(--text-dark), var(--accent-blue));
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
+    color: #dc2626;
 }
 
 .bengali-name {
@@ -252,14 +246,11 @@ html {
 }
 
 .section-title {
-    font-size: 2.5rem;
+    font-size: 3rem;
     font-weight: 800;
     text-align: center;
-    margin-bottom: 2rem;
-    background: linear-gradient(45deg, var(--text-dark), var(--accent-blue));
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
+    margin-bottom: 3rem;
+    color: #dc2626;
 }
 
 /* About Section */
@@ -383,17 +374,14 @@ html {
     font-size: 1.8rem;
     font-weight: 700;
     margin-bottom: 1rem;
-    color: var(--accent-blue);
+    color: #dc2626;
 }
 
 .plan-price {
     font-size: 3rem;
     font-weight: 900;
     margin-bottom: 1rem;
-    background: linear-gradient(45deg, var(--text-dark), var(--accent-teal));
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
+    color: #dc2626;
 }
 
 .plan-features {
@@ -628,13 +616,11 @@ html {
     text-align: center;
 }
 
-.contact-cta h2 {
-    font-size: 2.5rem;
-    margin-bottom: 2rem;
-    background: linear-gradient(45deg, var(--text-dark), var(--accent-blue));
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
+.contact-ct.plan-name {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: #dc2626;
+    margin-bottom: 0.5rem;
 }
 
 .contact-info {
@@ -830,11 +816,7 @@ html {
     font-size: 26px;
     font-weight: 700;
     margin-bottom: 10px;
-    color: var(--accent-blue);
-    background: linear-gradient(45deg, var(--accent-blue), var(--accent-teal));
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
+    color: #dc2626;
 }
 
 .footer-col h4 {
